@@ -4,8 +4,7 @@ Use given json data
 Create a database using sql from the Json data given.
 Use Flask framework to design and develop a dashboard for Back-end
 For Front-end you can use  React
-For charts or visualizations, you can use either of the following:
-D3.js  
+For charts or visualizations, you can use html , css
 Use any creating visual that you can create using the data to generate insights
 You must use the given data only.
 Interactive graphs.
