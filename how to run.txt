@@ -1,0 +1,20 @@
+Backend (Flask)
+Create a Python file named app.py in your project directory.
+Copy and paste the Flask backend code provided earlier into the app.py file.
+Save the file.
+
+Frontend (HTML + JavaScript with D3.js)
+Create an HTML file named index.html in your project directory.
+Copy and paste the HTML, CSS, and JavaScript code provided earlier into the index.html file.
+Save the file.
+
+
+Running the Application
+Open a terminal or command prompt.
+Navigate to your project directory where you saved app.py and index.html.
+Run the Flask server by executing the following command:
+python app.py
+This will start the Flask server, and you should see a message indicating that the server is running.
+Open a web browser.
+Go to the address http://127.0.0.1:5000/ in the web browser.
+You should see the D3.js dashboard with the bar chart rendered on the page.
